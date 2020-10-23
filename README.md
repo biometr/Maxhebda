@@ -7,7 +7,7 @@
    * :small_blue_diamond:*[SudokuMaxSolver](https://github.com/Maxhebda/SudokuMaxSolver#sudokumaxsolver)*
    * :small_blue_diamond:*[Labyrinth](https://github.com/Maxhebda/Labyrinth#labyrinth)*
  * **:mortar_board: I'm currently learning:**
-   * *internet : `Unity2D`, `Entity Framework`, `MSQL`*
+   * *internet : `Unity2D`, `Entity Framework`, `MSSQL`, `Xamarin (5%)`*
    * *books : `Unity`, `Blender`*
  * **:hourglass_flowing_sand: In the future, I plan to learn:**
    * *`Java`, `Xamarin`*
