@@ -1,8 +1,5 @@
 ## Hi, I'm Max :hand:
-*I am a new engineer in this world.
- I like to solve math problems, create algorithms and implement them.
-  If I find an algorithmic problem on the Internet, I have to solve it - see why it is what it is.
-  I am an IT specialist and electrician by profession, but also an electronics and astronomer by passion.*
+
  * **:hourglass_flowing_sand: I’m currently working on my projects:**
    * :small_blue_diamond:*[SudokuMaxSolver](https://github.com/Maxhebda/SudokuMaxSolver#sudokumaxsolver)*
    * :small_blue_diamond:*[Labyrinth](https://github.com/Maxhebda/Labyrinth#labyrinth)*
