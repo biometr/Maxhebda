@@ -1,8 +1,5 @@
 ## Hi, I'm Max :hand:
-*I am a new engineer in this world.
- I like to solve math problems, create algorithms and implement them.
-  If I find an algorithmic problem on the Internet, I have to solve it - see why it is what it is.
-  I am an IT specialist and electrician by profession, but also an electronics and astronomer by passion.*
+
  * **:hourglass_flowing_sand: I’m currently working on my projects:**
    * :small_blue_diamond:*[SudokuMaxSolver](https://github.com/Maxhebda/SudokuMaxSolver#sudokumaxsolver)*
    * :small_blue_diamond:*[Labyrinth](https://github.com/Maxhebda/Labyrinth#labyrinth)*
@@ -24,7 +21,4 @@
  25.06.2020 | [Langton's Ant](https://github.com/Maxhebda/AntAlgorithm#cellular-automaton---langtons-ant) | <img src="https://github.com/Maxhebda/AntAlgorithm/raw/master/projectScreenImage/algorytm_Mrowka.png" width=150 /> | Langton's Ant - a simple cellular automaton invented and described by Chris Langton in 1986. It can also be thought of as a very simple Turing machine, extended to two dimensions. In each step, one cell called the "ant" is distinguished, which, in addition to the color, also has a specific direction in which it is moving. See Wikipedia -> [Link](https://pl.wikipedia.org/wiki/Mr%C3%B3wka_Langtona) | c++ <br> QT Creator
  02.05.2020 | [Saper Joker](https://github.com/Maxhebda/SaperJoker#saperjoker) | <img src="https://github.com/Maxhebda/SaperJoker/raw/master/projectScreenImage/SaperJoker2.png" width=150 /> | SaperJoker is a regular "SAPER" game. The problem is that not all numbers are displayed, but only the Joker icon. Joker means there is a mine next to it. | c++ <br> QT Creator
 
-You can find the rest of my projects directly on github :smiley:. Just don't get scared :scream: xD
-***
-*I plan to write a game -> `CHESS`, with some level of intelligence.
-<br>In addition to programming, I love looking at the sky at night and watching the stars, reading technical news and playing with my son.:punch::family::muscle:*
+
